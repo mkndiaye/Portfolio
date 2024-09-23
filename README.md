@@ -1,2 +1,2 @@
 # Portfolio
-/workspaces/Portfolio/Physics Labs/Physics_301_Lab4
+Physics Labs/Physics_301_Lab4
